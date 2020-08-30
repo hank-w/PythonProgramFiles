@@ -1,0 +1,5 @@
+import json
+import stripe
+stripe.api_key = "sk_test_51HLaikGhktAqF47YE9lZ56FNWwGRiKMQ6lcTJRBOCZAnT9aWkQMZvD78KBz6uIdpVF8TIYh5NDX7uj8pyljYaElu00noE3XzIm"
+
+stripe.BalanceTransaction.list(limit=3)
