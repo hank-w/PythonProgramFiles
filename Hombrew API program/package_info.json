@@ -1,0 +1,128 @@
+[
+  {
+    "name": "a2ps",
+    "desc": "Any-to-PostScript filter",
+    "analytics": {
+      "30d": 71,
+      "90d": 212,
+      "365d": 1126
+    }
+  },
+  {
+    "name": "a52dec",
+    "desc": "Library for decoding ATSC A/52 streams (AKA 'AC-3')",
+    "analytics": {
+      "30d": 16,
+      "90d": 72,
+      "365d": 330
+    }
+  },
+  {
+    "name": "aacgain",
+    "desc": "AAC-supporting version of mp3gain",
+    "analytics": {
+      "30d": 31,
+      "90d": 132,
+      "365d": 583
+    }
+  },
+  {
+    "name": "aalib",
+    "desc": "Portable ASCII art graphics library",
+    "analytics": {
+      "30d": 45,
+      "90d": 155,
+      "365d": 797
+    }
+  },
+  {
+    "name": "aamath",
+    "desc": "Renders mathematical expressions as ASCII art",
+    "analytics": {
+      "30d": 8,
+      "90d": 29,
+      "365d": 200
+    }
+  },
+  {
+    "name": "aardvark_shell_utils",
+    "desc": "Utilities to aid shell scripts or command-line users",
+    "analytics": {
+      "30d": 12,
+      "90d": 26,
+      "365d": 131
+    }
+  },
+  {
+    "name": "abcde",
+    "desc": "Better CD Encoder",
+    "analytics": {
+      "30d": 45,
+      "90d": 111,
+      "365d": 582
+    }
+  },
+  {
+    "name": "abcl",
+    "desc": "Armed Bear Common Lisp: a full implementation of Common Lisp",
+    "analytics": {
+      "30d": 61,
+      "90d": 201,
+      "365d": 451
+    }
+  },
+  {
+    "name": "abcm2ps",
+    "desc": "ABC music notation software",
+    "analytics": {
+      "30d": 18,
+      "90d": 95,
+      "365d": 406
+    }
+  },
+  {
+    "name": "abcmidi",
+    "desc": "Converts abc music notation files to MIDI files",
+    "analytics": {
+      "30d": 86,
+      "90d": 406,
+      "365d": 1009
+    }
+  },
+  {
+    "name": "abduco",
+    "desc": "Provides session management: i.e. separate programs from terminals",
+    "analytics": {
+      "30d": 8,
+      "90d": 31,
+      "365d": 137
+    }
+  },
+  {
+    "name": "abnfgen",
+    "desc": "Quickly generate random documents that match an ABFN grammar",
+    "analytics": {
+      "30d": 3,
+      "90d": 7,
+      "365d": 42
+    }
+  },
+  {
+    "name": "abook",
+    "desc": "Address book with mutt support",
+    "analytics": {
+      "30d": 38,
+      "90d": 108,
+      "365d": 511
+    }
+  },
+  {
+    "name": "abseil",
+    "desc": "C++ Common Libraries",
+    "analytics": {
+      "30d": 19,
+      "90d": 92,
+      "365d": 219
+    }
+  }
+]
